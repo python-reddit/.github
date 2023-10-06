@@ -1,5 +1,10 @@
 # Python Reddit
 
+The go-to Reddit hub for everything Python! 
+
+Engage with the language, its ecosystem, and the latest news. Enjoy AMAs from key community figures, including members of the CPython core team, industry providers such as Jetbrain, authors, and more! 
+
+
 ### Community Links
 [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/python?label=r%2FPython&logo=reddit)](https://reddit.com/r/python)
 [![Discord](https://img.shields.io/discord/267624335836053506?color=blue&label=chat%20on%20discord&logo=discord)](https://discord.gg/python)
